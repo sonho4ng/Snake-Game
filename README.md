@@ -1,6 +1,5 @@
 # Artificial Intelligence Project
 
---------------------------
 ## Snake Game using Reinforcement Learning
 
 Serving for the course Artificial Intelligence - IT3160E
