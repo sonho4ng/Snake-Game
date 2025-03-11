@@ -1,7 +1,7 @@
 ---
 # Snake Game using Reinforcement Learning
 
-###Serving for the course Artificial Intelligence - IT3160E
+### Serving for the course Artificial Intelligence - IT3160E
 
 This mini-project delves into the application of Deep Q-learning, a powerful Deep
 Reinforcement Learning (DRL) technique, to train an AI agent to master the deceptively
