@@ -69,8 +69,8 @@ pip install -r requirements.txt
 1. **Clone the repository:**
 
    ```
-  git clone https://github.com/sonho4ng/Snake-Game.git
-  cd Snake-Game
+   git clone https://github.com/xt2201/it3320e-human-action-recognition-ucf101.git](https://github.com/sonho4ng/Snake-Game.git
+   cd Snake-Game
    ```
 
 2. **Install dependencies:**
@@ -82,6 +82,7 @@ pip install -r requirements.txt
    ```
 
    Alternatively, install required libraries individually using `pip`.
+
 
  
 
