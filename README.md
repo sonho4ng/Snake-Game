@@ -1,8 +1,7 @@
-# Artificial Intelligence Project
+---
+# Snake Game using Reinforcement Learning
 
-## Snake Game using Reinforcement Learning
-
-Serving for the course Artificial Intelligence - IT3160E
+###Serving for the course Artificial Intelligence - IT3160E
 
 This mini-project delves into the application of Deep Q-learning, a powerful Deep
 Reinforcement Learning (DRL) technique, to train an AI agent to master the deceptively
@@ -19,6 +18,7 @@ only demonstrates the power of Deep Q-learning in tackling complex optimization
 challenges but also paves the way for its broader application in diverse real-world domains
 where intelligent adaptation and decision-making are crucial.
 
+---
 ## Overview
 
 This report presents a journey into the application of Deep Q-Learning (DQN) for
@@ -39,6 +39,7 @@ acknowledging the remaining challenges, as the AI navigates increasingly complex
 scenarios. Ultimately, this work paves the way for further exploration in leveraging AI
 learning through games, unlocking new possibilities in the fascinating realm of RL.
 
+---
 ## Requirements
 
 The following libraries and frameworks are required for running the project:
